@@ -1,7 +1,9 @@
 # This Is Halloween #
 
 A Halloween-themed side-scroller shooter game built in JavaScript, using PixiJS. Pretty much the same as
-[shooter-game](https://github.com/dgyarmati/shooter-game), but with different sprites and some sounds, plus a boss fight!
+[shooter-game](https://github.com/dgyarmati/shooter-game), but with different sprites and some sounds, plus a boss fight.
+
+Try it out at https://violettomania.github.io/halloween-shooter !
 
 **How to run locally**
 
@@ -15,7 +17,7 @@ up a simple web server. The easiest way to do this is probably using Python. A d
 2. open a terminal, and navigate to downloaded folder (`shooter-game` by default)
 3. run `python -m SimpleHTTPServer`
 4. open your browser of choice, and navigate to the displayed URL (normally `http://localhost:8000/`)
-5. navigate to the `/bin` folder (or skip the previous step, and navigate directly to `http://localhost:8000/bin/`)
+5. navigate to the `/bin` folder (or skip the previous step, and navigate directly to `http://localhost:8000/docs/`)
 6. have fun!
    
 **Controls**
